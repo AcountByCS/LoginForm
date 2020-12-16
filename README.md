@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+##improvements
+
+Need to implement unit test cases.
+Redux part is done with one alert box on success if error it will through error message on the particular helper text. In place of that we can use backend api
